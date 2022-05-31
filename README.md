@@ -3,4 +3,4 @@ Consists of all the final visualization scripts created during my internship (Ju
 Each scripts generally consists of an UI for directory selection, graphical options, etc., calculations, and various graphs (subplots & single graphs) as required by the Product Development or Marketing team.
 
 All scripts were created via Jupyter Notebook.
-WIP - 4/11/2022
+Updated with final versions / end of internship - 5/31/2022
